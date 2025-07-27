@@ -1,4 +1,4 @@
-#SQL to Power BI Project
+# SQL to Power BI Project
 
 Welcome to this portfolio project! 🚀
 
@@ -7,7 +7,7 @@ It follows industry best practices in data engineering, modeling (star schema), 
 The goal is to showcase my technical skills and analytical thinking in real-world business scenarios.
 
 ---
-##🏗️ Data Architecture
+## 🏗️ Data Architecture
 
 The project applies the Medallion Architecture framework organizing data across *Bronze*, *Silver*, and *Gold* layers to ensure scalability, quality, and clarity throughout the pipeline:
 
