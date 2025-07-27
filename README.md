@@ -10,6 +10,7 @@ The goal is to showcase my technical skills and analytical thinking in real-worl
 ## 🏗️ Data Architecture
 
 The project applies the Medallion Architecture framework organizing data across *Bronze*, *Silver*, and *Gold* layers to ensure scalability, quality, and clarity throughout the pipeline:
+
 ![Data Architecture](docs/data_architecture.png)
 
 1. **Bronze Layer**: Stores raw, unprocessed data ingested from CSV files into a SQL Server database.
