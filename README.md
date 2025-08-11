@@ -26,3 +26,24 @@ This project showcases the full data lifecycle, combining technical execution wi
 2. **ETL Development**: Building robust ETL processes to extract, transform, and load data into the SQL Server database.
 3. **Dimensional Modeling**: Creating fact and dimension tables following star schema principles for performance and usability.
 4. **Data Analysis & Reporting**: Delivering actionable insights through Power BI dashboards supported by DAX measures and SQL queries.
+
+---
+## 📊 Key Insights & Recommendations
+After processing and modeling the data, I developed an interactive Power BI dashboard to identify trends, monitor KPIs, and uncover improvement opportunities.
+
+Key Insights
+• Operational Bottlenecks: Certain processes or segments presented higher lead times, impacting overall performance.
+
+• Data Quality Gaps: Missing or inconsistent values in key fields could affect the accuracy of reporting.
+
+• High Variability in Performance: Significant differences between periods, suggesting external factors or inefficiencies.
+
+Recommendations & Possible Solutions
+• Process Optimization: Review and streamline workflows in underperforming segments to reduce delays.
+
+• Data Governance: Implement validation rules and monitoring processes at the ingestion stage to improve data reliability.
+
+• KPI Standardization: Establish baseline targets to better measure progress and support decision-making.
+
+This dashboard not only provides visibility into the current state but also serves as a strategic tool for continuous improvement.
+![sales_dashboard](power_bi/sales_dashboard.png)
