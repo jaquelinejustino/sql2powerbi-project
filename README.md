@@ -32,24 +32,25 @@ This project showcases the full data lifecycle, combining technical execution wi
 Overview: Analysis of annual sales performance integrating KPIs for sales, profit, orders, and customers.
 
 🔍 Key Insights
-  • Sales: ↓ 17.43% vs. PY – despite 📈 +53.29% orders and +46.89% customers.
+   • Sales: ↓ 17.43% vs. PY – despite 📈 +53.29% orders and +46.89% customers.
 
-  • Profit: ↓ 27.14% – possible cost increase or margin compression.
+   • Profit: ↓ 27.14% – possible cost increase or margin compression.
 
-  • Bikes dominate revenue, but profit margins may be under pressure.
+   • Bikes dominate revenue, but profit margins may be under pressure.
 
-  • Geographic concentration: Majority of sales in Australia and United States.
+   • Geographic concentration: Majority of sales in Australia and United States.
 
-  • Customer dependency: Top 10 customers represent a large share of total sales.
+   • Customer dependency: Top 10 customers represent a large share of total sales.
 
 💡 Recommendations
-  • Margin Optimization: Review pricing & cost structure in high-volume products.
 
-  • Market Diversification: Grow sales in underperforming regions (e.g., France, Germany).
+   • Margin Optimization: Review pricing & cost structure in high-volume products.
+   
+   • Market Diversification: Grow sales in underperforming regions (e.g., France, Germany).
 
-  • Product Mix Expansion: Increase share of accessories/clothing for margin boost.
+   • Product Mix Expansion: Increase share of accessories/clothing for margin boost.
   
-  • Customer Retention: Loyalty programs & targeted offers for top customers.
+   • Customer Retention: Loyalty programs & targeted offers for top customers.
 
 ---
 
