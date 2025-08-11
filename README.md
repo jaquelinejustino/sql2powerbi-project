@@ -28,22 +28,32 @@ This project showcases the full data lifecycle, combining technical execution wi
 4. **Data Analysis & Reporting**: Delivering actionable insights through Power BI dashboards supported by DAX measures and SQL queries.
 
 ---
-## 📊 Key Insights & Recommendations
-After processing and modeling the data, I developed an interactive Power BI dashboard to identify trends, monitor KPIs, and uncover improvement opportunities.
+## 📊 Dashboard Insights – 2012 Annual Sales
+Overview: Analysis of annual sales performance integrating KPIs for sales, profit, orders, and customers.
 
-Key Insights
-• Operational Bottlenecks: Certain processes or segments presented higher lead times, impacting overall performance.
+🔍 Key Insights
+  • Sales: ↓ 17.43% vs. PY – despite 📈 +53.29% orders and +46.89% customers.
 
-• Data Quality Gaps: Missing or inconsistent values in key fields could affect the accuracy of reporting.
+  • Profit: ↓ 27.14% – possible cost increase or margin compression.
 
-• High Variability in Performance: Significant differences between periods, suggesting external factors or inefficiencies.
+  • Bikes dominate revenue, but profit margins may be under pressure.
 
-Recommendations & Possible Solutions
-• Process Optimization: Review and streamline workflows in underperforming segments to reduce delays.
+  • Geographic concentration: Majority of sales in Australia and United States.
 
-• Data Governance: Implement validation rules and monitoring processes at the ingestion stage to improve data reliability.
+  • Customer dependency: Top 10 customers represent a large share of total sales.
 
-• KPI Standardization: Establish baseline targets to better measure progress and support decision-making.
+💡 Recommendations
+  • Margin Optimization: Review pricing & cost structure in high-volume products.
 
-This dashboard not only provides visibility into the current state but also serves as a strategic tool for continuous improvement.
+  • Market Diversification: Grow sales in underperforming regions (e.g., France, Germany).
+
+  • Product Mix Expansion: Increase share of accessories/clothing for margin boost.
+  
+  • Customer Retention: Loyalty programs & targeted offers for top customers.
+
+---
+
+This dashboard highlights both performance trends and strategic opportunities, demonstrating my ability to combine data visualization with business-oriented analysis.
+
+---
 ![sales_dashboard](power_bi/sales_dashboard.png)
