@@ -32,6 +32,7 @@ This project showcases the full data lifecycle, combining technical execution wi
 Overview: Analysis of annual sales performance integrating KPIs for sales, profit, orders, and customers.
 
 🔍 Key Insights
+
    • **Sales**: ↓ 17.43% vs. PY – despite 📈 +53.29% orders and +46.89% customers.
 
    • **Profit**: ↓ 27.14% – possible cost increase or margin compression.
